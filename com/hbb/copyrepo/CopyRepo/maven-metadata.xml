@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.hbb.plugin</groupId>
-  <artifactId>PGYUpload</artifactId>
+  <groupId>com.hbb.copyrepo</groupId>
+  <artifactId>CopyRepo</artifactId>
   <versioning>
     <release>1.0.0</release>
     <versions>
       <version>1.0.0</version>
     </versions>
-    <lastUpdated>20210804055624</lastUpdated>
+    <lastUpdated>20210804055612</lastUpdated>
   </versioning>
 </metadata>
